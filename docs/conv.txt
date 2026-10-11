@@ -1,0 +1,349 @@
+Question 1: What is the company/brand name that will appear on the website?
+
+For now a demo dummy website 2 in 1 website
+Question 2: What visual style should the website use?
+
+For the dummy two-in-one UAE services and Dubai job assistance website, visual style: A. Premium Corporate. Ask me the next question only.
+Question 3: Which color combination should the premium corporate website use?
+
+Website color palette: Navy + Gold + White. Ask me the next question only.
+Question 4: How should the two businesses appear on the homepage?
+
+Homepage layout: B. One shared hero. Ask me the next question only.
+Question 5: Which features should the demo website include?
+
+Demo website features: Service and job inquiry forms, Admin dashboard to manage submissions, WhatsApp contact buttons, Responsive mobile and desktop design, Service search and filtering. Ask me the next question only.
+Question 6: Should the admin dashboard actually store and manage submitted forms?
+
+Backend choice for the demo website: B. Demo-only backend with sample inquiries and simulated actions. Ask me the next question only.
+Question 7: Which technology stack should the demo use?
+
+Technology stack for the demo website: A. Next.js + TypeScript + Tailwind CSS. Ask me the next question only.
+Question 8: What should the website use for its temporary demo branding?
+
+Demo website branding choice: C. Fictional brand with centralized, easily replaceable company details. Ask me the next question only.
+Question 9: What should the homepage hero section look like?
+
+Homepage hero design: D. Premium hybrid with Dubai imagery, refined typography, and two clear service buttons. Ask me the next question only.
+Question 10: How should visitors contact the company?
+
+Contact strategy: C. Give inquiry forms and WhatsApp equal importance. Ask me the next question only.
+Question 11: How should the demo admin dashboard look?
+
+Demo admin dashboard design: B. Minimal dashboard with overview, inquiry list, and basic actions. Ask me the next question only.
+Question 12: Which services should the demo website display?
+
+UAE services presentation: C. Feature selected services on Home and display all 11 on the Services page. Ask me the next question only.
+Question 13: How should the Jobs in Dubai section work?
+
+Jobs in Dubai section: A. Job assistance service with applicant details and company follow-up, no job listings. Ask me the next question only.
+Question 14: Which pages should the public website include?
+
+Jobs in Dubai section: C. Job assistance plus sample vacancies, with company follow-up as the main process. Ask me the next question only.
+Question 15: Which page structure do you prefer?
+
+Final public and admin page structure: B. 8-page structure with combined Privacy & Terms, separate Admin Login and Dashboard. Ask me the next question only.
+Question 16: What should happen when someone submits an inquiry in the demo?
+
+Demo inquiry submission behavior: A. Simulated submission with success message and session-only dashboard data. Ask me the next question only.
+Question 17: How should the demo admin login work?
+
+Demo admin login: A. Predefined demo username and password shown in demo instructions. Ask me the next question only.
+Question 18: Which language should the demo website use?
+
+Demo website language: A. English only. Ask me the next question only.
+Question 19: How should the website handle mobile navigation?
+
+Mobile navigation: A. Clean slide-out navigation drawer. Ask me the next question only.
+Question 20: What should the website use for its imagery?
+
+Website imagery: A. Realistic Dubai photography. Ask me the next question only.
+Question 21: How should the website display its 11 UAE services?
+
+UAE services display: A. Premium service cards. Ask me the next question only.
+Question 22: What should happen when visitors click a service card?
+
+Service card click behavior: B. Popup with details and inquiry form. Ask me the next question only.
+Question 23: How should visitors contact the company through WhatsApp?
+
+WhatsApp contact design: C. Both floating and contextual buttons. Ask me the next question only.
+Question 24: What should the homepage emphasize first?
+
+Homepage priority: C. Equal emphasis on both services and job assistance. Ask me the next question only.
+Question 25: What should the website use for its typography?
+
+Website typography: A. Modern sans-serif. Ask me the next question only.
+Question 26: What should the website’s footer include?
+
+Website footer: C. Multi-column footer separating services, jobs, company information and contacts. Ask me the next question only.
+Question 27: How should company contact details be managed?
+
+Company contact details: C. Centralized defaults plus editable demo dashboard settings. Ask me the next question only.
+Question 28: What animation style should the website use?
+
+Website animation style: B. Subtle premium animations with smooth fades, hover effects and refined transitions. Ask me the next question only.
+Question 29: What should the website’s default theme be?
+
+Website default theme: C. Light default with light/dark theme switcher. Ask me the next question only.
+Question 30: How should the website build trust with visitors?
+
+Website trust strategy: C. Combined approach with transparent processes, genuine proof and clear disclaimers. Ask me the next question only.
+Question 31: How should the website handle customer testimonials?
+
+Website testimonials: C. Admin-managed testimonials through the demo dashboard. Ask me the next question only.
+Question 32: How should the website display its service and job inquiry forms?
+
+Inquiry form design: B. Multi-step forms with progress indicators. Ask me the next question only.
+Question 33: What should happen after someone submits an inquiry?
+
+Post-submission experience: C. Confirmation with reference number and WhatsApp follow-up button. Ask me the next question only. And after succession give a code to user to send to whats app then the admin can search the user query
+Question 34: How should inquiry reference codes work?
+
+Inquiry reference codes: C. Unique category-prefixed codes, searchable in admin dashboard and included in WhatsApp messages. Ask me the next question only.
+Question 35: How should admins search and manage inquiries?
+
+Admin inquiry management: C. Full inquiry management with search, filters, status updates, internal notes and detailed inquiry views. Ask me the next question only.
+Question 36: Which inquiry statuses should admins be able to assign?
+
+Inquiry status workflow: C. Sensible default workflow with admin-editable status options. Ask me the next question only.
+Question 37: How should the demo admin dashboard handle data?
+
+Demo dashboard data storage: C. Browser-persistent demo data with CSV inquiry export. Ask me the next question only.
+Question 38: How should demo admin access work?
+
+Demo admin access: C. Multiple demo roles with different dashboard permissions. Ask me the next question only.
+Question 39: Which permissions should Staff have compared with Admin?
+
+Admin and Staff permissions: B. Staff manage all inquiries; Admin alone manages users and company settings. Ask me the next question only.
+Question 40: How should the demo dashboard show inquiry activity?
+
+Dashboard analytics: C. Detailed analytics with charts, date filters, conversion summaries and CSV reports. Ask me the next question only.
+Question 41: How should the website handle SEO for the UAE market?
+
+Website SEO: C. Advanced SEO foundation including local SEO, Open Graph, canonical URLs, robots rules and performance optimization. Ask me the next question only.
+Question 42: How should the website handle multiple languages in the future?
+
+Website language support: B. English now, with architecture ready for future Arabic localization. Ask me the next question only.
+Question 43: How should the website handle errors and loading states?
+
+Website loading and error handling: C. Polished feedback plus retry actions, unsaved-form protection and recovery guidance. Ask me the next question only.
+Question 44: How should the demo website be delivered to your client?
+
+Demo delivery: B. Live online demo with a shareable client URL. Ask me the next question only.
+Question 45: Which hosting platform should the demo use?
+
+Hosting preference: A. Vercel. Ask me the next question only.
+Question 46: How should the website source code be organized in GitHub?
+
+GitHub organization preference: B. Create a new dedicated repository. Ask me the next question only.
+Question 47: How should the demo protect against accidental data loss?
+
+Demo data protection preference: C. Automatic browser persistence plus export and restore tools. Ask me the next question only.
+Question 48: How should the website handle client branding and customization?
+
+A. Manual export and import
+Admins download backups and restore them when needed.
+
+B. Automatic browser backup
+Save demo data automatically in the browser, with recovery guidance.
+
+C. Both
+Automatic browser persistence plus downloadable backups and restore tools.
+
+D. Resettable demo
+Provide sample data and a one-click reset to the original demo state.
+
+Confirm choice
+Client branding customization preference: B. Admin-editable branding and company settings. Ask me the next question only.
+Question 49: How should the demo website handle images and other assets?
+
+Website asset strategy: B. Optimized local assets. Ask me the next question only.
+Question 50: How should the website be tested before presenting it to your client?
+
+Production account and permissions preference: C. Enterprise access management with extended RBAC, MFA, session management, account recovery, and security auditing. Ask me the next question only.
+Question 54: What level of data protection should the production website support?
+
+Production data protection preference: C. Compliance-oriented protection including privacy workflows and preparation for applicable UAE privacy requirements. Ask me the next question only.
+Question 55: How should production notifications be delivered to administrators and staff?
+
+
+Build the demo to help the client evaluate the design and workflow. Do not present unimplemented functionality as completed production functionality.
+Visual direction: B. Minimal Modern Corporate, white/charcoal with generous whitespace. Ask me the next question only.
+Question 59: What fictional company name should appear in the demo?
+
+Demo company branding: B. Horizon Business Services. Ask me the next question only.
+Question 60: What should the homepage hero section look like?
+
+Homepage hero design: C. Welcome section followed by two prominent business-branch cards. Ask me the next question only.
+Question 61: Which typography style should Horizon Business Services use?
+
+Main navigation design: C. Expanded navigation with Services dropdown and branch-specific action buttons. Ask me the next question only.
+Question 64: How should the Documentation & Visa Services page present its services?
+
+Documentation and Visa Services page layout: A. Premium service cards with icons, descriptions, and inquiry buttons. Ask me the next question only.
+Question 65: How should the International Job Services page be designed?
+
+Admin inquiry management: C. Full demo management with advanced search/filters, details, status updates, internal notes, date filters, and CSV export. Ask me the next question only.
+Question 69: How should the admin dashboard sidebar be organized?
+
+Today 6:46 PM
+Admin dashboard sidebar organization: A. Compact sidebar with overview, inquiries, and settings. Ask me the next question only.
+Question 70: What should the dashboard overview display?
+
+Admin dashboard overview: C. Analytics-focused overview with trends, conversion metrics, charts, and branch comparisons. Ask me the next question only.
+Question 71: How should the demo dashboard handle administrator and staff access?
+
+Demo inquiry storage and backup: B. Persistent browser storage with CSV export, backup download, restore, and sample-data reset. Ask me the next question only.
+Question 74: How should Horizon Business Services handle WhatsApp contact?
+
+WhatsApp integration preference: C. Floating and contextual WhatsApp links with prefilled messages. Ask me the next question only.
+Question 75: What should happen after a visitor submits an inquiry?
+
+
+Post-submission confirmation: C. Unique reference code plus WhatsApp follow-up button with prefilled message. Ask me the next question only.
+Question 76: What format should inquiry reference codes use?
+
+Final Website Pages List
+
+No.
+
+Page
+
+Type
+
+1
+
+Home
+
+Static
+
+2
+
+About Us
+
+Static
+
+3
+
+Documentation & Visa Services
+
+Static
+
+4
+
+International Job Services
+
+Static
+
+5
+
+Contact Us
+
+Static + Contact Form
+
+6
+
+News & Updates
+
+Public news listing
+
+7
+
+Admin Login
+
+Authentication
+
+8
+
+Admin Dashboard
+
+Single-page interface with multiple sections
+
+Question 77: How should the News & Updates page work in the demo?
+
+News & Updates page behavior: B. Admin-managed news with create, edit, publish, and unpublish controls in the demo dashboard. Ask me the next question only.
+Question 78: How should the admin dashboard organize its sections?
+
+Admin dashboard sections: C. Expanded workspace with inquiries, news, services, testimonials, users, audit logs, analytics, and settings. Ask me the next question only.
+Question 79: How should the demo handle testimonials?
+
+Public News & Updates presentation: A. Responsive news cards with title, date, excerpt, and optional image. Ask me the next question only.
+Question 81: How should the admin manage services through the dashboard?
+
+Admin service management: C. Full demo service management with create, edit, reorder, publish/unpublish, categories, descriptions, icons, and featured status. Ask me the next question only.
+Question 82: What should the Users section in the demo admin dashboard support?
+
+
+Demo dashboard Users section: C. Full demo user management with create, edit, activate/deactivate, demo role assignment, and explicit non-production security warnings. Ask me the next question only.
+Question 83: What should the Audit Logs section record in the demo?
+
+
+Demo Analytics section: C. Advanced analytics plus downloadable CSV reports and printable summaries. Ask me the next question only.
+Question 85: What should the Settings section allow the admin to configure?
+
+Demo Settings section: C. Full configuration workspace including all B settings plus demo access settings, notification rules, backup/restore, localization preferences, and system defaults. Ask me the next question only.
+Question 86: How should the demo handle admin login and authentication?
+
+Admin authentication choice: C. Real server-side authentication and authorization with a database and secure session handling. Ask me the next question only.
+Question 89: How should sensitive admin actions be protected?
+
+Sensitive admin action protection: B. Standard protection plus re-authentication or MFA for sensitive actions including role changes, account deactivation, and security-setting changes. Ask me the next question only.
+Question 90: How should the website handle privacy and UAE data-protection requirements?
+
+Privacy and UAE data-protection requirements: C. Extended privacy governance with all B features plus configurable retention schedules, consent records, data-subject request tracking, incident-response procedures, and privacy audit reports. Ask me the next question only.
+Question 91: How should the production system handle notifications?
+
+Question 92: How should the production database and demo data be separated?
+
+Database and demo-data separation: C. Demo-first architecture with fictional sample data and an isolated database, followed by production infrastructure after client approval. Ask me the next question only.
+Question 93: How should the demo be deployed and shared with the client?
+
+Client demo deployment: A. Vercel-hosted Next.js demo with a shareable preview URL and environment-specific configuration. Ask me the next question only.
+Question 94: How should the project’s GitHub repository be organized?
+
+GitHub repository organization: C. Enterprise repository with all B features plus contribution standards, code ownership, security scanning, release conventions, architecture decision records, and automated quality gates. Ask me the next question only.
+Question 95: How should automated testing and quality assurance work?
+
+Project quality assurance: C. Comprehensive QA with automated tests, accessibility audits, responsive-device testing, security checks, performance benchmarks, error-state testing, and post-deployment verification. Ask me the next question only.
+Question 96: How should the website handle English and future Arabic localization?
+
+Website language strategy: B. English now with centralized translation files, locale-aware routing foundations, and future Arabic right-to-left layout support. Ask me the next question only.
+Inquiry assignment workflow: B. Rule-based routing by branch, service category, and configurable rules, with manual reassignment. Ask me the next question only.
+Question 103: How should admins track inquiry response times and service targets?
+
+Inquiry response-time tracking: B. First-response time, time in each status, configurable service targets, and overdue indicators. Ask me the next question only.
+Question 104: How should admins manage customer communication history?
+
+Customer communication history: B. Unified inquiry timeline showing internal notes, status changes, email and WhatsApp activity, and follow-up records. Ask me the next question only.
+Question 105: How should the public Contact Us page present contact options?
+
+Public Contact Us page: C. Complete contact experience with split layout, branch-specific inquiry choices, click-to-call, email links, WhatsApp actions, map integration, and clear office hours. Ask me the next question only.
+Question 106: How should the website display the company’s office location?
+
+Office location presentation: B. Embedded interactive map with address, directions link, and office-hour details. Ask me the next question only.
+Question 107: How should the website display social media links?
+
+SEO strategy: B. Complete technical SEO with basic SEO, XML sitemap, robots.txt, canonical URLs, structured data, image optimization, and indexing controls. Ask me the next question only.
+Question 109: How should the website measure visitor activity and conversions?
+
+Website visitor analytics: B. Privacy-conscious analytics for page visits, branch interest, inquiry completion, and WhatsApp clicks, with data minimization and appropriate consent controls. Ask me the next question only.
+Question 110: How should the website handle cookie consent and privacy preferences?
+
+Cookie consent and privacy preferences: B. Granular consent with a banner, separate essential/analytics preferences, accept/reject options, and settings to change consent later. Ask me the next question only.
+Question 111: How should the website handle file uploads in inquiries?
+
+Inquiry file upload policy: B. Restricted document uploads with selected file types, size limits, server-side validation, private storage, and access controls. Ask me the next question only.
+Question 112: How should uploaded documents be handled in the admin dashboard?
+
+Admin document management: B. Controlled document management with preview, download, access permissions, retention dates, and deletion controls. Ask me the next question only.
+Question 113: How should the website handle its News & Updates content?
+
+Question 112: How should uploaded documents be handled in the admin dashboard?
+
+Admin document management: B. Controlled document management with preview, download, access permissions, retention dates, and deletion controls. Ask me the next question only.
+Question 113: How should the website handle its News & Updates content?
+
+News and Updates editorial management: C. Full editorial management with drafts, scheduling, categories, images, previews, publication history, author roles, approval workflows, revisions, related articles, and archive management. Ask me the next question only.
+Question 114: How should the website manage testimonials and customer reviews?
+
+B. Admin-managed testimonials with create, edit, reorder, publish and unpublish; fictional demo entries clearly labelled. Ask me the next question only.

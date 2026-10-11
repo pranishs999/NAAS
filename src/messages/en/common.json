@@ -1,0 +1,39 @@
+{
+  "brand": {
+    "name": "Horizon Business Services",
+    "demoBadge": "FICTIONAL DEMO",
+    "tagline": "[CLIENT INPUT REQUIRED]"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "visaServices": "Documentation & Visa Services",
+    "jobServices": "International Job Services",
+    "contact": "Contact Us",
+    "news": "News & Updates",
+    "admin": "Admin Portal"
+  },
+  "branches": {
+    "visaTitle": "Documentation & Visa Services",
+    "visaDesc": "Professional government liaison, degree attestation, family residency, and Golden Visa processing in the UAE.",
+    "jobsTitle": "International Job Services",
+    "jobsDesc": "Comprehensive career placement guidance, candidate documentation, and international employment assistance."
+  },
+  "common": {
+    "inquireNow": "Inquire Now",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "submit": "Submit Inquiry",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "search": "Search...",
+    "filter": "Filter",
+    "reset": "Reset",
+    "loading": "Loading...",
+    "referenceCode": "Reference Code",
+    "status": "Status",
+    "actions": "Actions",
+    "whatsAppFollowUp": "Follow Up on WhatsApp"
+  },
+  "demoDisclaimer": "Notice: This website is a fictional demonstration build for Horizon Business Services. Features marked Demo use browser storage and simulated operations."
+}

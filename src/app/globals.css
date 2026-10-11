@@ -1,26 +1,75 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  color-scheme: light;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  /* ═══════════════════════════════════════════════════════
+     STRICT 4-COLOR PALETTE
+     #FEF3E2  Warm Cream (Beige)
+     #F4AE52  Golden Amber (Warm Gold)
+     #D4621A  Burnt Orange (Action)
+     #2A1A0E  Deep Espresso (Black)
+     ═══════════════════════════════════════════════════════ */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Backgrounds */
+  --bg-primary: #FEF3E2;
+  --bg-secondary: #FFFFFF;
+  --bg-cream: #FEF3E2;
+  --surface-white: #FFFFFF;
+
+  /* Text — secondary uses espresso at reduced opacity */
+  --text-primary: #2A1A0E;
+  --text-secondary: rgba(42, 26, 14, 0.55);
+  --text-espresso: #2A1A0E;
+
+  /* Actions & Accents */
+  --action-orange: #D4621A;
+  --accent-amber: #F4AE52;
+  --accent-gold-fill: #D4621A;
+  --accent-gold-text: #D4621A;
+  --accent-gold: #F4AE52;
+  --accent-navy: #2A1A0E;
+  --accent-bronze: #D4621A;
+
+  /* Borders — espresso at low opacity for warmth */
+  --color-border: rgba(42, 26, 14, 0.12);
+
+  /* Status — mapped to palette */
+  --color-success: #2A1A0E;
+  --color-error: #D4621A;
+  --color-warning: #D4621A;
+
+  --background: var(--bg-primary);
+  --foreground: var(--text-primary);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Global focus-visible outlines (No blue focus rings! Uses Burnt Orange or Espresso) */
+*:focus-visible {
+  outline: 2px solid #D4621A !important;
+  outline-offset: 2px !important;
+}
+
+/* Subtle Mashrabiya Geometric Pattern overlay class */
+.mashrabiya-pattern {
+  background-image: radial-gradient(#F4AE52 0.8px, transparent 0.8px), radial-gradient(#F4AE52 0.8px, #FEF3E2 0.8px);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+  opacity: 0.18;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
